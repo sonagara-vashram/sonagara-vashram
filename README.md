@@ -13,8 +13,20 @@
 
 ##
 
-<!-- <h3 align="left">Connect with me:</h3> -->
-[![Linkedin Badge](https://img.shields.io/badge/sonagara-vashram-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonagara-vashram//)](https://www.linkedin.com/in/sonagara-vashram/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/sonagara-vashram/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <!-- <a href="https://learn.microsoft.com/en-us/users/sonagara-vashram/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Microsoft%20Learn&logo=microsoft&label=&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft learn logo" />
+  </a> -->
+  <a href="https://www.w3profile.com/sonagara-vashram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=W3Profile&logo=w3c&label=&color=009A68&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="w3profile logo" />
+  </a>
+  <a href="https://github.com/sonagara-vashram" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo" />
+  </a>
+</div>
 
 ## 🧰 Tech Stack
 
@@ -69,6 +81,10 @@ I have **used all these technologies** in my projects and practical work.
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
+  <span style="margin-right: 10px;"></span>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Databases:</h3>
@@ -106,6 +122,14 @@ I have **used all these technologies** in my projects and practical work.
   <span style="margin-right: 10px;"></span>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <span style="margin-right: 10px;"></span>
+  <a href="https://slack.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="40" alt="slack logo"  />
+  </a>
+  <span style="margin-right: 10px;"></span>
+  <a href="https://slack.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="Vs code logo"  />
   </a>
 </p>
 
