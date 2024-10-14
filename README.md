@@ -2,11 +2,6 @@
 
 <h1 align="center">Hi there,👋 I'm Sonagara Vasram</h1>
 
-### 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonagara-vashram&column=3&margin-w=15&margin-h=15" alt="sonagara-vashram" /></a> </p>
-
----
 # About Me
 
 - 🔭 I’m currently working on Python development and web scraping.
