@@ -17,9 +17,9 @@
   <a href="https://www.linkedin.com/in/sonagara-vashram/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <!-- <a href="https://learn.microsoft.com/en-us/users/sonagara-vashram/" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/users/vasramsonagara-4659" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Microsoft%20Learn&logo=microsoft&label=&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft learn logo" />
-  </a> -->
+  </a>
   <a href="https://www.w3profile.com/sonagara-vashram" target="_blank">
     <img src="https://img.shields.io/static/v1?message=W3Profile&logo=w3c&label=&color=009A68&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="w3profile logo" />
   </a>
