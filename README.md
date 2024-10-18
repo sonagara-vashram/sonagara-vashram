@@ -83,7 +83,7 @@ I have **used all these technologies** in my projects and practical work.
 ###
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonagara-vashram&layout=compact&show_icon=true&theme=algolia" alt="sonagara-vashram-langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonagara-vashram&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=sonagara-vashram&layout=compact&show_icon=true&theme=algolia" alt="sonagara-vashram-stats"/>
 </div>
 <div align="center">
