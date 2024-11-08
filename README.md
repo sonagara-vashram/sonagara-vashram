@@ -90,6 +90,13 @@ I have **used all these technologies** in my projects and practical work.
   <img src="http://github-readme-streak-stats.herokuapp.com?user=sonagara-vashram&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
+### My GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sonagara-vashram&theme=dark&date_format=j%20M%5B%20Y%5D)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sonagara-vashram&theme=react-dark)
+
+
 ### ✍️ Random Quote for developer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Cobalt-2)
 
