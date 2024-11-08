@@ -86,16 +86,6 @@ I have **used all these technologies** in my projects and practical work.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonagara-vashram&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=sonagara-vashram&layout=compact&show_icon=true&theme=algolia" alt="sonagara-vashram-stats"/>
 </div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=sonagara-vashram&theme=algolia&background=0d1117&hide_border=true" />
-</div>
-
-### My GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sonagara-vashram&theme=dark&date_format=j%20M%5B%20Y%5D)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sonagara-vashram&theme=react-dark)
-
 
 ### ✍️ Random Quote for developer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Cobalt-2)
