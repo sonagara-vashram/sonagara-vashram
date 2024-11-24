@@ -80,6 +80,10 @@ I have **used all these technologies** in my projects and practical work.
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sonagara-vashram&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 ###
 
 <div align="center">
