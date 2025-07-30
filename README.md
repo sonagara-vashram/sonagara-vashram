@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Hi there,👋 I'm Sonagara Vasram</h1>
+<h1 align="center">Hi there, I'm Vasram Sonagara</h1>
 
 # About Me
 
