@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vasram Sonagara</h1>
-<h3 align="center">Python Developer | Web Scraping | REST APIs | Automation</h3>
+<h3 align="center">Python Developer | Web Scraping | REST APIs | AI Automation</h3>
 
 ---
 
