@@ -1,7 +1,5 @@
 <h1 align="center">Vasram Sonagara</h1>
-<p align="center">
-  <strong>Full Stack Developer</strong> · Python · FastAPI · React · Web Scraping · AI Automation
-</p>
+<p align="center"><strong>Full Stack Developer</strong> · Python · FastAPI · React · Web Scraping · AI Automation</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sonagara-vashram/">
@@ -19,38 +17,32 @@
 
 ### 🧑‍💻 About
 
-Full Stack Developer at **All in Shorts** — building scalable web apps, REST APIs, and data tools.  
-Previously Software Engineer at **Binarybits.co** (1 yr 10 mo).  
-🎓 **GTU Rank #2** | CGPA **9.83** — B.Voc Information Technology, Kalyan Polytechnic.
+Full Stack Developer at **All in Shorts** — building scalable web apps, REST APIs, and data tools. Previously Software Engineer at **Binarybits.co** (1 yr 10 mo). 🎓 **GTU Rank #2** · CGPA **9.83** — B.Voc IT, Kalyan Polytechnic.
 
 ---
 
 ### ⚡ Tech Stack
 
-Python · JavaScript · SQL · HTML/CSS
+**Languages:** Python · JavaScript · SQL · HTML/CSS
 
+**Backend:** FastAPI · Node.js · SQLAlchemy
 
-| Backend | Frontend | Data & AI | DevOps |
-|---|---|---|---|
-| FastAPI | React.js | Pandas, Scikit-learn | Git, GitHub |
-| Node.js | Tailwind CSS | OpenAI, HuggingFace | Azure, CI/CD |
-| SQLAlchemy | Vite | TensorFlow, PyTorch | Postman, n8n |
+**Frontend:** React.js · Tailwind CSS
 
-| Databases | Web Scraping |
-|---|---|
-| MongoDB, MySQL, Redis | Selenium, BeautifulSoup, Apify |
+**Databases:** MongoDB · MySQL · Redis
+
+**AI/ML:** OpenAI · HuggingFace · TensorFlow · Pandas
+
+**Tools:** Git · Azure · CI/CD · Postman · n8n · Apify
 
 ---
 
 ### 🚀 Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Daily Trend Intelligence](https://apify.com/vasram/daily-trend-intelligence)** | Google Trends tool — trending topics with news, SEO keywords & content ideas. Live on Apify Store. | Python, Apify, httpx |
-| **[Local Radar](https://www.localradar.tech/)** | Geolocation discovery platform for real-time local business search. | React, FastAPI, MongoDB, Redis |
+**[📊 Daily Trend Intelligence](https://apify.com/vasram/daily-trend-intelligence)** — Google Trends tool with news, SEO keywords & content ideas. Live on Apify Store.
+
+**[📍 Local Radar](https://www.localradar.tech/)** — Geolocation platform for real-time local business discovery. React + FastAPI + MongoDB.
 
 ---
 
-<p align="center">
-  <em>Building tools that solve real problems 🛠️</em>
-</p>
+<p align="center"><em>Building tools that solve real problems 🛠️</em></p>
