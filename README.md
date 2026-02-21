@@ -1,39 +1,56 @@
-<h1 align="center">Hi, I'm Vasram Sonagara</h1>
-<h3 align="center">Python Developer | Web Scraping | REST APIs | AI Automation</h3>
+<h1 align="center">Vasram Sonagara</h1>
+<p align="center">
+  <strong>Full Stack Developer</strong> · Python · FastAPI · React · Web Scraping · AI Automation
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sonagara-vashram/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://apify.com/vasram/daily-trend-intelligence">
+    <img src="https://img.shields.io/badge/Apify%20Store-00C752?style=for-the-badge&logo=apify&logoColor=white" />
+  </a>
+  <a href="https://www.localradar.tech/">
+    <img src="https://img.shields.io/badge/Local%20Radar-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 👤 About Me
-- 💼 Python Developer with hands-on experience in **web scraping, REST APIs (FastAPI), and full-stack applications**.  
-- ⚡ Skilled in building **automation workflows** (n8n) and integrating **ML models** (OpenAI, HuggingFace).  
-- 🎓 University Rank: **2nd at Gujarat Technological University** with CGPA **9.83**.  
-- 🌍 Passionate about solving **data engineering challenges** and delivering scalable solutions.  
+### 🧑‍💻 About
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sonagara-vashram/) | [GitHub](https://github.com/sonagara-vashram)  
+Full Stack Developer at **All in Shorts** — building scalable web apps, REST APIs, and data tools.  
+Previously Software Engineer at **Binarybits.co** (1 yr 10 mo).  
+🎓 **GTU Rank #2** | CGPA **9.83** — B.Voc Information Technology, Kalyan Polytechnic.
 
 ---
 
-## 🛠️ Tech Stack
+### ⚡ Tech Stack
 
-**Languages:** Python, JavaScript, SQL, HTML5, CSS3  
-**Frameworks & Libraries:** FastAPI, React.js, Node.js, Selenium, BeautifulSoup, SQLAlchemy, Tailwind CSS  
-**Databases:** MySQL, MongoDB, Redis  
-**Tools & Platforms:** Git, GitHub, Postman, n8n, VS Code, API Development  
-**Data Science & ML:** Pandas, Scikit-learn, Hugging Face, OpenAI API, TensorFlow, PyTorch  
+Python · JavaScript · SQL · HTML/CSS
 
----
 
-## 🚀 Projects
+| Backend | Frontend | Data & AI | DevOps |
+|---|---|---|---|
+| FastAPI | React.js | Pandas, Scikit-learn | Git, GitHub |
+| Node.js | Tailwind CSS | OpenAI, HuggingFace | Azure, CI/CD |
+| SQLAlchemy | Vite | TensorFlow, PyTorch | Postman, n8n |
 
-🔹 **[Local Radar - Geolocation Discovery Platform](https://www.localradar.tech/)**  
-- Built a **full-stack web application** for real-time local business discovery.  
-- Frontend: React.js, Tailwind CSS | Backend: FastAPI, Redis, MongoDB  
-- Implemented **web scraping + REST APIs** for location-based services.  
+| Databases | Web Scraping |
+|---|---|
+| MongoDB, MySQL, Redis | Selenium, BeautifulSoup, Apify |
 
 ---
 
-## 📜 Certifications
-- Tailwind CSS – Frontend Masters (2025)  
-- Mastering Chrome Developer Tools v4 – Frontend Masters (2025)  
+### 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Daily Trend Intelligence](https://apify.com/vasram/daily-trend-intelligence)** | Google Trends tool — trending topics with news, SEO keywords & content ideas. Live on Apify Store. | Python, Apify, httpx |
+| **[Local Radar](https://www.localradar.tech/)** | Geolocation discovery platform for real-time local business search. | React, FastAPI, MongoDB, Redis |
 
 ---
+
+<p align="center">
+  <em>Building tools that solve real problems 🛠️</em>
+</p>
