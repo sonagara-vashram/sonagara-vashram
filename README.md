@@ -16,24 +16,7 @@
 
 Full Stack Developer at **All in Shorts**, where I build scalable web applications, REST APIs and data architecture. Previously Software Engineer at **Binarybits.co**.
 
-I design and ship production-grade automation, data extraction and AI-powered systems, and publish the reusable ones as open-source projects and public Apify Actors. Ranked **#2 at Gujarat Technological University (GTU)**.
-
----
-
-### Tech Stack
-
-**Languages:** Python · JavaScript · SQL · HTML/CSS
-
-**Backend:** FastAPI · Node.js · SQLAlchemy
-
-**Frontend:** React.js · Tailwind CSS
-
-**Databases:** MongoDB · MySQL · Redis
-
-**AI / Automation:** OpenAI · HuggingFace · TensorFlow · Pandas · n8n
-
-**Tools & Cloud:** Git · Azure · CI/CD · Postman · Apify
-
+I design and ship production-grade automation, data extraction and AI-powered systems, and publish the reusable ones as open-source projects and public Apify Actors.
 ---
 
 ### Open Source
